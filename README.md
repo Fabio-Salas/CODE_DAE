@@ -7,3 +7,4 @@ In DAE-PUCP we do research on the Peruvian tertiary education system and labor m
 * Admission analysis
 * Demand for tertiary education in Peru and transition to higher education
 * Educational segregation
+
