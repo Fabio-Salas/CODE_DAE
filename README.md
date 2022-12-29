@@ -11,3 +11,6 @@ In DAE-PUCP we do research on the Peruvian tertiary education system and labor m
 Additional information:
 DAE generates economic studies that contribute to a better economic management of the University and that allow making informed decisions, such as those related to the creation of institutional policies, and the creation of new programs, majors and units. It also evaluates their impact on the University's economy and budget. It also coordinates and manages the budgetary process and the formulation of the University's annual budget, and advises the units on relevant economic and financial issues, whenever requested.
 
+The project began on august 2022. 
+
+
